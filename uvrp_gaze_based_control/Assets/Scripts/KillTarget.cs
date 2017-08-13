@@ -52,7 +52,7 @@ public class KillTarget : MonoBehaviour {
 	}
 }
 
-/*
+/* //version 1
 using UnityEngine;
 using System.Collections;
 
