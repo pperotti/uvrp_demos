@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/BallGame.unity
-    guid: 00000000000000000000000000000000
+    path: Assets/Scenes/PhysicsWorldWithElevator.unity
+    guid: 5f5b80a4184c9443aa001a1fb8264b65
