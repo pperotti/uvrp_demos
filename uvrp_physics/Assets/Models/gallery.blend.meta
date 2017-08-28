@@ -1,47 +1,52 @@
 fileFormatVersion: 2
-guid: ba1cedba9ce194420be582595985b120
-timeCreated: 1503616580
+guid: 13b1c438add9f4b5cb335894111dd32b
+timeCreated: 1503847602
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Curve_001
-    100002: Curve_002
-    100004: Curve_003
-    100006: Curve_004
-    100008: Curve_005
-    100010: Curve_006
-    100012: Curve_007
-    100014: //RootNode
-    400000: Curve_001
-    400002: Curve_002
-    400004: Curve_003
-    400006: Curve_004
-    400008: Curve_005
-    400010: Curve_006
-    400012: Curve_007
-    400014: //RootNode
-    2300000: Curve_001
-    2300002: Curve_002
-    2300004: Curve_003
-    2300006: Curve_004
-    2300008: Curve_005
-    2300010: Curve_006
-    2300012: Curve_007
-    3300000: Curve_001
-    3300002: Curve_002
-    3300004: Curve_003
-    3300006: Curve_004
-    3300008: Curve_005
-    3300010: Curve_006
-    3300012: Curve_007
-    4300000: Curve_007
-    4300002: Curve_006
-    4300004: Curve_005
-    4300006: Curve_004
-    4300008: Curve_003
-    4300010: Curve_002
-    4300012: Curve_001
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: Cube_007
+    100016: //RootNode
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: Cube_007
+    400016: //RootNode
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    4300000: Cube_007
+    4300002: Cube
+    4300004: Cube_002
+    4300006: Cube_001
+    4300008: Cube_004
+    4300010: Cube_003
+    4300012: Cube_005
+    4300014: Cube_006
     7400000: Default Take
     9500000: //RootNode
   materials:

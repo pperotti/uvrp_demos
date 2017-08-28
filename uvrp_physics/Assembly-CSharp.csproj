@@ -51,6 +51,7 @@
      <Compile Include="Assets\Clicker.cs" />
      <Compile Include="Assets\DestroySelf.cs" />
      <Compile Include="Assets\Elevator.cs" />
+     <Compile Include="Assets\ExhibitionRide.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoSceneManager.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\GVRDemo\GVRDemoManager.cs" />
