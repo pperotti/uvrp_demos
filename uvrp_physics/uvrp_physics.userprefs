@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HeadLookWalkBounce.cs">
+    <Files>
+      <File FileName="Assets/BallsFromHeaven.cs" Line="1" Column="1" />
+      <File FileName="Assets/DestroySelf.cs" Line="1" Column="1" />
+      <File FileName="Assets/Ballgame.cs" Line="1" Column="1" />
+      <File FileName="Assets/TriggerSound.cs" Line="1" Column="1" />
+      <File FileName="Assets/Trampoline.cs" Line="1" Column="1" />
+      <File FileName="Assets/HeadLookWalkBounce.cs" Line="12" Column="35" />
+      <File FileName="Assets/Trampoline2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Clicker.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularDisplacement.shader" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularSmooth.shader" Line="1" Column="1" />
+      <File FileName="Assets/Elevator.cs" Line="1" Column="1" />
+      <File FileName="Assets/ExhibitionRide.cs" Line="33" Column="2" />
+      <File FileName="Assets/HeadLookwalkBound.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
